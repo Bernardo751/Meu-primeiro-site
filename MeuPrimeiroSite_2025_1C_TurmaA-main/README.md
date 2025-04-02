@@ -2,3 +2,6 @@
 Repositório destinado ao aprendizado básico de Html
 
 ## index.html
+https://github.com/Bernardo751/Meu-primeiro-site/blob/main/MeuPrimeiroSite_2025_1C_TurmaA-main/index.html
+
+## indexexterno.html
