@@ -11,3 +11,4 @@ https://github.com/Bernardo751/Meu-primeiro-site/blob/main/MeuPrimeiroSite_2025_
 https://github.com/Bernardo751/Meu-primeiro-site/blob/main/MeuPrimeiroSite_2025_1C_TurmaA-main/indexinline.html
 
 ## indexinterno.html
+https://github.com/Bernardo751/Meu-primeiro-site/blob/main/MeuPrimeiroSite_2025_1C_TurmaA-main/indexinterno.html
